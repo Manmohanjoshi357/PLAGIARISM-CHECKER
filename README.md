@@ -211,7 +211,5 @@ Where:
 
 This project is created for educational purposes.
 
-## Contact
 
-For questions or issues, please contact the development team.
 
