@@ -1,0 +1,7 @@
+Student Pair,Similarity Percentage,Plagiarized
+"assignment1.txt vs assignment2.txt",100.00%,Yes
+"assignment1.txt vs assignment3.txt",0.65%,No
+"assignment1.txt vs assignment4.txt",1.16%,No
+"assignment2.txt vs assignment3.txt",0.65%,No
+"assignment2.txt vs assignment4.txt",1.16%,No
+"assignment3.txt vs assignment4.txt",0.49%,No

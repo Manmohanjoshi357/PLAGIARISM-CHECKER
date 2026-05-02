@@ -1,0 +1,7 @@
+🎯 Why Your Code Was Not Working
+
+Queue always pops in the order nodes were inserted.
+
+Zigzag is about reversing the node data order at each level, not the insertion order of children.
+
+Changing child insertion order affects next levels, not the current zigzag.

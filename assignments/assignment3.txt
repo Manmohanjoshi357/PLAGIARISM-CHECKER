@@ -1,0 +1,18 @@
+Object-Oriented Programming Concepts
+
+Introduction
+
+Object-oriented programming (OOP) is a programming paradigm based on the concept of objects. Objects contain data in the form of fields and code in the form of procedures known as methods.
+
+Classes are blueprints for creating objects. A class defines the properties and behaviors that objects of that type will have. When you create an object from a class, you are instantiating that class.
+
+Encapsulation is one of the four fundamental principles of OOP. It refers to the bundling of data and methods that operate on that data within a single unit. This helps protect data from unauthorized access and modification.
+
+Inheritance allows a class to inherit properties and methods from another class. The class that inherits is called the derived class or subclass, while the class being inherited from is called the base class or superclass.
+
+Polymorphism enables objects of different types to be accessed through the same interface. This allows for more flexible and reusable code. Method overriding is a common form of polymorphism.
+
+Conclusion
+
+Object-oriented programming provides a powerful way to model real-world problems. By using classes, objects, and the principles of encapsulation, inheritance, and polymorphism, developers can create more maintainable and scalable software systems.
+
