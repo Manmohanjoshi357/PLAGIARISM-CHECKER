@@ -1,10 +1,5 @@
 # Smart Assignment Plagiarism Checker
 
-**Team Members:**
-- Manmohan Joshi (67)
-- Ryan Jose (46)
-- Krishna Baliyan (72)
-
 ## Overview
 
 This is a C++ application that detects plagiarism in student assignments by comparing document similarity using TF-IDF (Term Frequency-Inverse Document Frequency) vectors and cosine similarity.
